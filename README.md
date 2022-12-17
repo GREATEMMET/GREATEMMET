@@ -1,4 +1,5 @@
-# - 👋 Hi, I’m @GREATEMMET
+# GREATEMMET
+- 👋 Hi, I’m @GREATEMMET
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning Frontend development.
 - 💞️ I’m looking to collaborate with other frontend developers.
