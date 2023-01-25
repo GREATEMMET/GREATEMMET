@@ -37,9 +37,9 @@ I look forward to future collaborations with other developers as I have also mas
 
 ## HOW TO REACH ME:
 
-- greatemmet@gmail.com
+- Email: greatemmet@gmail.com
 - Linkedin coming soon
-- Twitter coming soon
+- Twitter: https://twitter.com/greatemmet
 
 <!---
 GREATEMMET/GREATEMMET is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
