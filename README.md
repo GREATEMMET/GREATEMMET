@@ -6,6 +6,7 @@ I am a frontend developer and an enthusiastic coder..
 I started coding in Nov 2021 with Udemy Bootcamp, FreeCodeCamp and W3Schools and have taken several personal projects as well as project from frontendmentor.io.
 All projects are built from ground up, from planing and designing all the way to solving challenges with code.
 I look forward to future collaborations with other developers as I have also mastered git and github flow system.
+I am open to making as much connections as I can.
 
 ## LANGUAGES AND TOOLS:
 
