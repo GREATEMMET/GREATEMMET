@@ -39,7 +39,7 @@ I am open to making as many connections as I can.
 ## HOW TO REACH ME:
 
 - Email: greatemmet@gmail.com
-- Linkedin: linkedin.com/in/great-chinwuba-704181272
+- Linkedin: https://www.linkedin.com/in/great-chinwuba-704181272/
 - Twitter: https://twitter.com/greatemmet
 
 <!---
