@@ -1,6 +1,6 @@
 # GREATEMMET
 
-**'Web Developer'**
+**'Font-end Web Developer / Python Developer'**
 
 I am a front-end web developer, a Python developer, and an enthusiastic coder.
 I started coding in Nov 2021 with Udemy Bootcamp, FreeCodeCamp, and W3Schools and have taken several personal projects as well as projects from frontendmentor.io.
