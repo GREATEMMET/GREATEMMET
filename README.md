@@ -2,11 +2,11 @@
 
 **'Web Developer'**
 
-I am a frontend developer and an enthusiastic coder..
-I started coding in Nov 2021 with Udemy Bootcamp, FreeCodeCamp and W3Schools and have taken several personal projects as well as project from frontendmentor.io.
-All projects are built from ground up, from planing and designing all the way to solving challenges with code.
-I look forward to future collaborations with other developers as I have also mastered git and github flow system.
-I am open to making as much connections as I can.
+I am a front-end web developer, a Python developer, and an enthusiastic coder.
+I started coding in Nov 2021 with Udemy Bootcamp, FreeCodeCamp, and W3Schools and have taken several personal projects as well as projects from frontendmentor.io.
+All projects are built from the ground up, from planning and designing all the way to solving challenges with code.
+I look forward to future collaborations with other developers as I have also mastered Git and GitHub flow systems.
+I am open to making as many connections as I can.
 
 ## LANGUAGES AND TOOLS:
 
@@ -39,7 +39,7 @@ I am open to making as much connections as I can.
 ## HOW TO REACH ME:
 
 - Email: greatemmet@gmail.com
-- Linkedin coming soon
+- Linkedin: linkedin.com/in/great-chinwuba-704181272
 - Twitter: https://twitter.com/greatemmet
 
 <!---
