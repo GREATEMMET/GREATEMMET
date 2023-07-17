@@ -28,6 +28,8 @@ I am open to making as many connections as I can.
 
 <img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
+<img width="30px" align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" />
+
 <br>
 
 
