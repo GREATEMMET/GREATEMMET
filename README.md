@@ -24,6 +24,8 @@ I am open to making as many connections as I can.
 
 <img width="30px" align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
 
+<img width="30px" align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/next/next-original.svg" />
+
 <img width="30px" align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" />
 
 <img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
