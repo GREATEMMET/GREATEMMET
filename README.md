@@ -24,6 +24,8 @@ I'm eager to establish connections with as many people as possible.
 
 <img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
+<img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+
 <img width="30px" align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
 
 <img width="30px" align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" />
