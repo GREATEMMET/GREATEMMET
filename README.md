@@ -7,12 +7,14 @@ Data Engineer skilled in Python, SQL, and PySpark, building pipelines and transf
 ## ⚙️ Tech Stack
 <table align="center">
   <tr>
-    <td><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></td>
-    <td><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/></td>
+    <td><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></td>
+    <td><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/></td>
     <td><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/></td>
-    <td><img width="60px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/databricks.svg"/></td>
-    <td><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></td>
-    <td><img width="40px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original-wordmark.svg"/></td>
+    <td><img width="50px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/databricks.svg"/></td>
+    <td><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></td>
+    <td><img width="50px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original-wordmark.svg"/></td>
+    <td><img width="50px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/apacheairflow/apacheairflow-original.svg"/></td>
+    <td><img width="50px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original-wordmark.svg"/></td>
   </tr>
 </table>
 
