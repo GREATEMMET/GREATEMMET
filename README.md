@@ -8,7 +8,7 @@ Data Engineer skilled in Python, SQL, and PySpark, building pipelines and transf
 <img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img width="30px" align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
 <img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg](https://github.com/devicons/devicon/blob/v2.17.0/icons/azure/azure-original-wordmark.svg" />
+<img width="30px" align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/azure/azure-original-wordmark.svg"/>
 <img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 <img width="30px" align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
 <img width="30px" align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />
