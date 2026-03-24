@@ -4,17 +4,29 @@
 
 Data Engineer skilled in Python, SQL, and PySpark, building pipelines and transforming messy data into actionable insights. Experienced with Databricks, Delta Lake, Lakehouse architectures, and Azure Data Factory, with a focus on scalable ETL workflows and clean, structured data for analysts and stakeholders. Passionate about designing reliable data solutions and expanding expertise in cloud platforms and modern data architectures.
 
-## LANGUAGES AND TOOLS:
-<img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/azure/azure-original-wordmark.svg"/>
-<img width="30px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />
-<img width="30px" align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" />
+## ⚙️ Tech Stack
+<table align="center">
+  <tr>
+    <td><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></td>
+    <td><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/></td>
+    <td><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/></td>
+    <td><img width="60px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/databricks.svg"/></td>
+    <td><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></td>
+    <td><img width="40px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original-wordmark.svg"/></td>
+  </tr>
+</table>
 
-<br>
+
+## 🏗️ Data Engineering Stack
+
+- Python, SQL, PySpark  
+- Azure Databricks  
+- Azure Data Factory  
+- Data Lakehouse Architecture  
+- ETL / ELT Pipelines  
+- Data Modeling  
+
+---
 
 
 # 
