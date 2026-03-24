@@ -29,13 +29,9 @@ Data Engineer skilled in Python, SQL, and PySpark, building pipelines and transf
 ---
 
 
-# 
 
 
-
-
-## HOW TO REACH ME:
-
+🔗 Connect With Me
 - Email: greatemmet@gmail.com
 - Linkedin: http://www.linkedin.com/in/great-ca
 
